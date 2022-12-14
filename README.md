@@ -19,9 +19,9 @@ You can find me on [Twitter](https://twitter.com/juanluiscr27), or on [LinkedIn]
 </p>
 <p>
  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
- <img src="https://img.shields.io/badge/IntelliJ_IDEA?style=for-the-badge&logo=intellij-idea&logoColor=white&color=2bbc8a" />
+ <img src="https://img.shields.io/badge/IntelliJ_IDEA-Editor?style=for-the-badge&logo=intellij-idea&logoColor=white&color=2bbc8a" />
  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
- <img src="https://img.shields.io/badge/Docker?style=for-the-badge&logo=docker&logoColor=white&color=2bbc8a" />
+ <img src="https://img.shields.io/badge/Docker-Tools?style=for-the-badge&logo=docker&logoColor=white&color=2bbc8a" />
 </p>
 
 ---
