@@ -13,7 +13,9 @@ You can find me on [Twitter](https://twitter.com/juanluiscr27), or on [LinkedIn]
  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+ <img src="https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a" />
  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
+ <img src="https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a" />
 
 ---
 ### &#x1f4c8; GitHub Stats
@@ -25,5 +27,7 @@ You can find me on [Twitter](https://twitter.com/juanluiscr27), or on [LinkedIn]
 -----
 <p align='center'>
 <a href="https://twitter.com/juanluiscr27"><img height="40" src="https://github.com/juanluiscr27/juanluiscr27/blob/main/twitter.svg"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/juanluiscasanovar"><img height="40" src="https://github.com/juanluiscr27/juanluiscr27/blob/main/linkedin.svg" style="background-color: #0072b1"></a>
+<a href="https://www.linkedin.com/in/juanluiscasanovar"><img height="40" src="https://github.com/juanluiscr27/juanluiscr27/blob/main/linkedin.svg" style="background-color: 0072b1;
+  -webkit-mask: url(https://github.com/juanluiscr27/juanluiscr27/blob/main/linkedin.svg) no-repeat center;
+  mask: url(https://github.com/juanluiscr27/juanluiscr27/blob/main/linkedin.svg) no-repeat center;"></a>
 </p>
