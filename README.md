@@ -28,4 +28,8 @@ You can find me on [Twitter](https://twitter.com/juanluiscr27), or on [LinkedIn]
 <p align='center'>
 <a href="https://twitter.com/juanluiscr27"><img height="40" src="https://github.com/juanluiscr27/juanluiscr27/blob/main/twitter.svg"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/juanluiscasanovar"><img height="40" src="https://github.com/juanluiscr27/juanluiscr27/blob/main/linkedin.svg" style="fill: red;"></a>
+<div style="background-color: red;
+  -webkit-mask: url(lhttps://github.com/juanluiscr27/juanluiscr27/blob/main/linkedin.svg) no-repeat center;
+  mask: url(https://github.com/juanluiscr27/juanluiscr27/blob/main/linkedin.svg) no-repeat center;
+}"></div>
 </p>
