@@ -1,10 +1,7 @@
 ![Header](https://github.com/juanluiscr27/juanluiscr27/blob/main/header.png "Header")
 <!-- Summary -->
 # Hey there! <img src="https://github.com/juanluiscr27/juanluiscr27/blob/main/wave.gif" width="30px" height="30px" />
-My name is Juan Luis Casanova and I am a Software Developer/Networks Engineer. I am currently working at Axiomatic Technologies. I have a passion for learning new things.
-
-
-You can find me on [Twitter](https://twitter.com/juanluiscr27), or on [LinkedIn](https://www.linkedin.com/in/juanluiscasanovar).
+My name is Juan Luis Casanova and I am a Software Developer/Networks Engineer. I am currently working at Axiomatic Technologies. I have a passion for learning new things. You can find me on [Twitter](https://twitter.com/juanluiscr27), or on [LinkedIn](https://www.linkedin.com/in/juanluiscasanovar).
 
 ---
 ### &#x1F6E0; Technologies & Tools
@@ -14,7 +11,7 @@ You can find me on [Twitter](https://twitter.com/juanluiscr27), or on [LinkedIn]
  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
- <img src="https://img.shields.io/badge/ORACLE-SQL?style=for-the-badge&logo=oracle&logoColor=white" />
+ <img src="https://img.shields.io/badge/ORACLE-C74634?style=for-the-badge&logo=oracle&logoColor=white" />
  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 <!-- Frameworks and Libraries -->
