@@ -12,7 +12,7 @@ My name is Juan Luis Casanova and I am a Software Developer/Networks Engineer. I
  <img src="https://img.shields.io/badge/C%23-823085?style=for-the-badge&logo=c-sharp&logoColor=white" />
  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
  <img src="https://img.shields.io/badge/ORACLE-C74634?style=for-the-badge&logo=oracle&logoColor=white" />
- <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=F29111" />
+ <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=#F29111" />
 </p>
 <!-- Frameworks and Libraries -->
 <p>
@@ -23,10 +23,10 @@ My name is Juan Luis Casanova and I am a Software Developer/Networks Engineer. I
 <!-- Editors -->
 <p>
  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
- <img src="https://img.shields.io/badge/IntelliJ_IDEA-Editor?style=for-the-badge&logo=intellij-idea&logoColor=white&color=2bbc8a" />
- <img src="https://img.shields.io/badge/PyCharm-Editor?style=for-the-badge&logo=pycharm&logoColor=white&color=2bbc8a" />
+ <img src="https://img.shields.io/badge/IntelliJ_IDEA-087CFA?style=for-the-badge&logo=intellij-idea&logoColor=white&color=2bbc8a" />
+ <img src="https://img.shields.io/badge/PyCharm-FCF84A?style=for-the-badge&logo=pycharm&logoColor=white&color=2bbc8a" />
  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
- <img src="https://img.shields.io/badge/Docker-Tools?style=for-the-badge&logo=docker&logoColor=white&color=2bbc8a" />
+ <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&color=2bbc8a" />
 </p>
 
 ---
