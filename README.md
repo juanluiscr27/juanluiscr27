@@ -23,8 +23,8 @@ My name is Juan Luis Casanova and I am a Software Developer/Networks Engineer. I
 <!-- Editors -->
 <p>
  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
- <img src="https://img.shields.io/badge/IntelliJ_IDEA-white?style=for-the-badge&logo=intellij-idea&logoColor=white&color=087CFA" />
- <img src="https://img.shields.io/badge/PyCharm-white?style=for-the-badge&logo=pycharm&logoColor=white&color=FCF84A" />
+ <img src="https://img.shields.io/badge/IntelliJ_IDEA-white?style=for-the-badge&logo=intellij-idea&logoColor=FE2857&color=087CFA" />
+ <img src="https://img.shields.io/badge/PyCharm-white?style=for-the-badge&logo=pycharm&logoColor=21D789&color=FCF84A" />
  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
  <img src="https://img.shields.io/badge/Docker-white?style=for-the-badge&logo=docker&logoColor=white&color=2496ED" />
 </p>
